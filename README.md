@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I’m Alina 👋
 
-<!--
-**alinacodes-bio/alinacodes-bio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a second-year B.Tech Bioengineering student interested in applying programming and computational methods to biological research.
 
-Here are some ideas to get you started:
+### Interests
+- Neurodegenerative diseases
+- Bioinformatics
+- Data analysis using Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+- Python (NumPy, Pandas, Matplotlib)
+- Basic machine learning
+
+### Goals
+To gain hands-on research experience and build a strong foundation for interdisciplinary bioscience research.
+
